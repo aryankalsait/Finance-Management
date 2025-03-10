@@ -1,1 +1,5 @@
-# Finance-Management
+<<<<<<< HEAD
+(Your local changes)
+=======
+(Remote repository changes)
+>>>>>>> origin/main
